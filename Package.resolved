@@ -48,10 +48,10 @@
     {
       "identity" : "postgrest-swift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/supabase-community/postgrest-swift",
+      "location" : "https://github.com/DominatorVbN/postgrest-swift.git",
       "state" : {
-        "revision" : "a3c2d6a2ede94d2529edf063b056b1a66fd9cdc2",
-        "version" : "1.0.0"
+        "branch" : "master",
+        "revision" : "fe400d070a5fc7b3ad5863bf7e5a7488e0c286a7"
       }
     },
     {
